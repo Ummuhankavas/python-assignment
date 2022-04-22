@@ -2,8 +2,6 @@
 
 ##Purpose of the this coding challenge is to solve a control flow statements issue.
 
-
-
 ### Problem Statement
   
 #- Write a function/functions that checks whether the sentence you get from the user is a **palindrome**. (Do not consider punctuation and special characters. Only consider "***alphanumeric***" characters.)
